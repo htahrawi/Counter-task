@@ -1,0 +1,22 @@
+.counter_container{
+    width: 10%;
+    font-size: 36px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: .5rem 0;
+}
+button{
+    width: 3rem;
+    height: 3rem;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    font-size: 22px;
+    color: #fff;
+}
+.decrease_btn{
+    background-color: rgb(215, 59, 59);
+}
+.increase_btn{
+    background-color: rgb(81, 233, 5);
+}
